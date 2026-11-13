@@ -9,3 +9,4 @@ while skaitlis < n:
     skaitlis = skaitlis + 1
 
 print("Summa:", summa)
+
